@@ -1,0 +1,25 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+    
+}
+
+.FoodList {
+    padding: 20px;
+    border-style: dashed;
+    border-color: lightcoral
+    
+}
+
+.foodName {
+font-size: 2em;
+}
+
+.foodEthnicity {
+
+}
+
+.foodCategory {
+
+}

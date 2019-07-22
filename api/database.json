@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Spaghetti",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "curry",
+      "category": "soup",
+      "ethnicity": "Thai"
+    },
+    {
+      "name": "Burgers with onions",
+      "category": "sandwich",
+      "ethnicity": "American",
+      "id": 4
+    }
+  ]
+}
